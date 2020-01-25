@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26bcfe69-4b5d-4b6d-b115-c86197532119" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wu9coYhZ6ZYH03pB3E5yuZNAQ8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/spell" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/spell" />
+      <recent name="$PROJECT_DIR$/src/passoff" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TrieTest">
+    <configuration name="SpellTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spellCorrectorPractice1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff" />
+      <option name="MAIN_CLASS_NAME" value="passoff.SpellTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spellCorrectorPractice1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff" />
+      <option name="MAIN_CLASS_NAME" value="passoff.TrieTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TrieTest" />
+        <item itemvalue="JUnit.SpellTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26bcfe69-4b5d-4b6d-b115-c86197532119" name="Default Changelist" comment="" />
+      <created>1579988694041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579988694041</updated>
+      <workItem from="1579988697336" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1088" y="433" width="376" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1579989025943">
+      <screen x="0" y="28" width="2560" height="1384" />
+    </state>
+    <state x="1088" y="433" width="376" height="574" key="#com.intellij.ide.util.MemberChooser/0.28.2560.1384@0.28.2560.1384" timestamp="1579989025943" />
+    <state x="1059" y="478" width="426" height="483" key="FileChooserDialogImpl" timestamp="1579988916459">
+      <screen x="0" y="28" width="2560" height="1384" />
+    </state>
+    <state x="1059" y="478" width="426" height="483" key="FileChooserDialogImpl/0.28.2560.1384@0.28.2560.1384" timestamp="1579988916459" />
+    <state width="2514" height="388" key="GridCell.Tab.0.bottom" timestamp="1579989061198">
+      <screen x="0" y="28" width="2560" height="1384" />
+    </state>
+    <state width="2514" height="388" key="GridCell.Tab.0.bottom/0.28.2560.1384@0.28.2560.1384" timestamp="1579989061198" />
+    <state width="2514" height="388" key="GridCell.Tab.0.center" timestamp="1579989061196">
+      <screen x="0" y="28" width="2560" height="1384" />
+    </state>
+    <state width="2514" height="388" key="GridCell.Tab.0.center/0.28.2560.1384@0.28.2560.1384" timestamp="1579989061196" />
+    <state width="2514" height="388" key="GridCell.Tab.0.left" timestamp="1579989061195">
+      <screen x="0" y="28" width="2560" height="1384" />
+    </state>
+    <state width="2514" height="388" key="GridCell.Tab.0.left/0.28.2560.1384@0.28.2560.1384" timestamp="1579989061195" />
+    <state width="2514" height="388" key="GridCell.Tab.0.right" timestamp="1579989061197">
+      <screen x="0" y="28" width="2560" height="1384" />
+    </state>
+    <state width="2514" height="388" key="GridCell.Tab.0.right/0.28.2560.1384@0.28.2560.1384" timestamp="1579989061197" />
+    <state x="763" y="298" width="1026" height="844" key="SettingsEditor" timestamp="1579988918121">
+      <screen x="0" y="28" width="2560" height="1384" />
+    </state>
+    <state x="763" y="298" width="1026" height="844" key="SettingsEditor/0.28.2560.1384@0.28.2560.1384" timestamp="1579988918121" />
+  </component>
+</project>
